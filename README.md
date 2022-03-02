@@ -1,4 +1,4 @@
-# Manifesto (Updated)
+# Manifesto
  
 ### Main Motivation
 The main motivation of this organization to help **Software Engineer candidates** to become **familiar about software development industry** to **eliminate stress** and help them for **building their career on their own**.
